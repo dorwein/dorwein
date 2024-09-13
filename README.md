@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Ff4dd30775e8de8a4a4b1aafe04cce172&psig=AOvVaw0mLUaLb3I-h7pNU6mVcS-v&ust=1726347306435000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjTroLnwIgDFQAAAAAdAAAAABA6">
+  <img src="https://gist.githubusercontent.com/revanth-reddy/f4dd30775e8de8a4a4b1aafe04cce172/raw/060f639dee04e8d1a8e766c715416497540741f9/hello.gif">
 </div>
 
 ## Welcome to my profile
