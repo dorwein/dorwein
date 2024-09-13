@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img src="https://gist.githubusercontent.com/revanth-reddy/f4dd30775e8de8a4a4b1aafe04cce172/raw/060f639dee04e8d1a8e766c715416497540741f9/hello.gif">
+  <img src="https://c.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif">
 </div>
 
-## Welcome to my profile
+## 👋 Hi, Welcome to my profile
 
-- 👋 Hi, I'm Dor, and I'm a Data Scientist with an engineering background.
+- ✌️ I'm Dor, and I'm a Data Scientist with an engineering background.
 
 - 📊 My journey started in the print industry as a Process and Application Engineer, where I worked on innovative technologies.
 
