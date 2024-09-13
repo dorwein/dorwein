@@ -9,7 +9,7 @@
 
 - 📊 My journey started in the print industry as a Process and Application Engineer, where I worked on innovative technologies.
 
-- 🚀 Le Wagon Data Science and AI Bootcamp alumni.
+- 🚀 I'm a Le Wagon Data Science and AI Bootcamp alumni.
 
 - 📸 I’m passionate about photography, image-based models, and finding creative solutions at the intersection of tech and design.
 
