@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://c.tenor.com/IdyfGO5EewIAAAAC/hi-hello.gif">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Ff4dd30775e8de8a4a4b1aafe04cce172&psig=AOvVaw0mLUaLb3I-h7pNU6mVcS-v&ust=1726347306435000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjTroLnwIgDFQAAAAAdAAAAABA6">
 </div>
 
 ## Welcome to my profile
